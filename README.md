@@ -9,3 +9,9 @@ MOOC that he taught with Donald E. Pease for DartmouthX on the edX platform in
 the Winter of 2016.
 
 The Close Reading Toolkit is released here under the MIT License. 
+
+#Contact
+Please email Jed Dobson (james.e.dobson@dartmouth.edu) with any problems,
+fixes, or suggestions.
+
+Web: http://www.cultcritlab.org
